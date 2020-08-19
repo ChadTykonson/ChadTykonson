@@ -1,0 +1,10 @@
+/* CSS Document */
+h1{text-align: center;
+color: white
+
+}
+body {
+    background-color: black; 
+    background-image: url(PicsBG.jpg); 
+    background-repeat: no-repeat; 
+    background-size: cover;

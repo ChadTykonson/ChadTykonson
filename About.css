@@ -1,0 +1,12 @@
+/* CSS Document */
+
+h1{ 
+ outline-style: solid;
+ outline-color: white;
+ text-align: center;
+ padding-top: 10%
+}
+
+body{
+ Background-image:url(AboutBG.jpg)
+}
